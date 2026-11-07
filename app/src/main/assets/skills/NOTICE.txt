@@ -1,0 +1,5 @@
+The built-in Agent Skill examples in this directory are copied from the Google AI Edge Gallery Android project:
+https://github.com/google-ai-edge/gallery/tree/main/Android/src/app/src/main/assets/skills
+
+Copyright 2026 Google LLC. Licensed under the Apache License, Version 2.0.
+The applicable license text is available in the app's third-party notices and at https://www.apache.org/licenses/LICENSE-2.0.

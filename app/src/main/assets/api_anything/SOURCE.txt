@@ -1,0 +1,4 @@
+API Anything site operation catalog from https://github.com/goodnight000/api-anything
+Version: 0.3.2
+Commit: 6617d9ebd75f2ec76b44bbb13053feb442f4a583
+Copyright 2026 API Anything contributors. See LICENSE.

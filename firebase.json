@@ -1,0 +1,19 @@
+{
+  "functions": [
+    {
+      "source": "auth-server",
+      "codebase": "default",
+      "runtime": "nodejs22",
+      "ignore": ["node_modules", ".env", ".git", "firebase-debug.log"]
+    },
+    {
+      "source": "agent-server",
+      "codebase": "agent",
+      "runtime": "nodejs22",
+      "ignore": ["node_modules", ".env", ".git", "firebase-debug.log"]
+    }
+  ],
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
